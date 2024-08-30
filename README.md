@@ -1,1 +1,1 @@
-# transcript_generator-
+To run program - streamlit run main.py
